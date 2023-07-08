@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ayushi Dwivedi and I am a junior at JUET, Guna, Madhya Pradesh. I am an upcoming intern 🧑‍💻 at LetsGrowMore,OctaNet and Codeclause participating in their Web Development Internship program. I am a DevOps enthusiast ⚡ and I love building great websites that support modern standards and platforms 🌐✅. 
 
-### Take a look at my Portfolio 
+# Take a look at my Portfolio 
 https://damncode12.github.io/OCTANET_JULY/ 
 
 <!--
