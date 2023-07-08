@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Ayushi Dwivedi and I am a junior at JUET, Guna, Madhya Pradesh. I am an upcoming intern 🧑‍💻@LetsGrowMore,@OctaNet and @Codeclause Web Development Internship program. I am a DevOps enthusiast ⚡ and I love building great websites that support modern standards and platforms 🌐✅. 
 
 <!--
 **damncode12/damncode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
